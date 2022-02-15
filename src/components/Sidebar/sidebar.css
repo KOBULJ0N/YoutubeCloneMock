@@ -1,0 +1,21 @@
+.Link {
+  color: #fff;
+  display: flex;
+  box-sizing: border-box;
+  padding: 15px 40px 15px 24px;
+  align-items: center;
+  border: none;
+  background: #212121;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+}
+svg {
+  margin-right: 24px;
+}
+
+.Link:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
